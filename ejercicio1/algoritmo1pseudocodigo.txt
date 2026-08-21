@@ -1,0 +1,11 @@
+algoritmo1pseudocodigoPseudocódigo:
+
+PI = 3.1416
+
+radio = 5
+
+si radio > 0 entonces resultado = 2 * PI * radio
+
+sino resultado = "El radio debe ser mayor a 0"
+
+mostrar (resultado)

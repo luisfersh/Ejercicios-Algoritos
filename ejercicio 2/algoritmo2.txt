@@ -1,0 +1,11 @@
+Inicio.
+
+Ingresa la base y el exponente (potencia n).
+
+Calcula el resultado de elevar la base al exponente.
+
+Guardar el resultado.
+
+Mostrar resultado.
+
+Fin.

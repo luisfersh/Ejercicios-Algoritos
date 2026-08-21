@@ -1,0 +1,8 @@
+Lenguaje natural:
+
+Inicio
+Ingresar el valor del radio
+Si el radio es mayor a 0, calcula la multiplicación de 2 por 3.1416 por el radio y guarda el resultado.
+De lo contrario, guarda el mensaje "El radio debe ser mayor a 0"
+Mostrar resultado
+Fin.
