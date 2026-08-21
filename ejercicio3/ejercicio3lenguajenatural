@@ -1,0 +1,11 @@
+Inicio.
+
+Solicitar al usuario que ingrese un número.
+
+Leer y almacenar el valor en la variable numero.
+
+Calcular la raíz cuadrada aplicando la fórmula: raiz es igual a numero elevado a la uno sobre dos (o utilizando la función raiz de numero).
+
+Mostrar el resultado almacenado en raiz.
+
+Fin.

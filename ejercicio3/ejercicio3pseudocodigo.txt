@@ -1,0 +1,3 @@
+numero = pedir numero
+hacer raiz = Math.sqrt(numero)
+resultado = mostrar raiz (resultado)
